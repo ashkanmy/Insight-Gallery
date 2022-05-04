@@ -10,3 +10,5 @@ But wait, data collection might be a hard task here. Finding a stormy lake and p
 ![This is an image](https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/Water.jpg)
 
 Next we need few people to swim in our lake. We get them from animated figures provided in www.mixamo.com. It is freely available as one needs to just a create an account and use the available figures.
+
+[![IMAGE ALT TEXT HERE](https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/)]
