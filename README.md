@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to my homepage!
+Here, I mostly write my opensource activities and explain the projects that I do.
 
-You can use the [editor on GitHub](https://github.com/ashkanmy/ashkanmy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### E-Lake
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Let us imagine a stormy day where swimmers decided to swim in a lake. We need to watch them in case they need help! We do it by a drone that can always locate the swimmer postions and investigate if their behaviour is normal or if they need help.
 
-### Markdown
+But wait, data collection might be a hard task here. Finding a stormy lake and people who are willing to swim is not easy and always possible. So, let us establish our electronic lake! first we need a texture representing a stormy kind of water. We find it as a free texture file below :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashkanmy/ashkanmy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
