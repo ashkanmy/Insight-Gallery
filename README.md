@@ -23,4 +23,11 @@ Now let use see the result of embedding the animated swimmers into a 3D model of
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/V-2.gif" width="1024" height="1024">
 </p>
 
-Next, we use 
+Next, we use [KGPR2017]
+
+---
+output:
+  md_document:
+    variant: markdown_github
+bibliography: bibliography.bib
+---
