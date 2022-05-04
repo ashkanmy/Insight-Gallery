@@ -20,5 +20,5 @@ Next we need few people to swim in our lake. We get them from animated figures p
 Now let use see the result of embedding the animated swimmers into a 3D model of lake :
 
 <p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/V-2.gif" width="256" height="256">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/V-2.gif" width="1024" height="1024">
 </p>
