@@ -13,23 +13,28 @@ But wait, data collection might be a hard task here. Finding a stormy lake and p
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/Water.jpg" width="1024" height="1024">
 </p>
 
-Next we need few people to swim in our lake. We get them from animated figures provided in www.mixamo.com. It is freely available as one needs to just a create an account and use the available figures.
+Next we need few people to swim in our lake. We get them from animated figures provided in [0]. It is freely available as one needs to just a create an account and use the available figures.
 
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/swim.gif" width="256" height="256">
 </p>
 
-Now let use see the result of embedding the animated swimmers into a 3D model of E-Lake :
+Now let use see the result of embedding the animated swimmers into a 3D model of E-Lake using [1]:
 
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/V-2.gif" width="1024" height="1024">
 </p>
 
-Next, we use [1] to see our swimmers are sometimes falsely classified as kite (green), bird (blue) and also person (white). This clearly reveals the Mask R-CNN pre-trained on MS COCO dataset [2] fails to watch our swimmers in our E-Lake.
+Next, we use [2] to see our swimmers are sometimes falsely classified as kite (green), bird (blue) and also person (white). This clearly reveals the Mask R-CNN pre-trained on MS COCO dataset [3] fails to watch our swimmers in our E-Lake.
 
-[1] He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). Mask R-CNN. arXiv. https://doi.org/10.48550/ARXIV.1703.06870
+### References
+[0] www.mixamo.com
 
-[2] https://cocodataset.org/#home
+[1] clara.io 
+
+[2] He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). Mask R-CNN. arXiv. https://doi.org/10.48550/ARXIV.1703.06870
+
+[3] https://cocodataset.org/#home
 
 
 
