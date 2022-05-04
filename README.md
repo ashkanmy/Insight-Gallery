@@ -29,6 +29,6 @@ Now let use see the result of embedding the animated swimmers into a 3D model of
 
 Next, we use 
 
-{% bibliography --cited --file My-Awesome-Tutorial/master_refs.bib  %}
+{% bibliography --cited --file biblio.bib  %}
 
 
