@@ -1,5 +1,3 @@
----
----
 
 
 # Welcome to my homepage!
@@ -29,6 +27,6 @@ Now let use see the result of embedding the animated swimmers into a 3D model of
 
 Next, we use 
 
-{% bibliography --cited --file ./biblio.bib  %}
+
 
 
