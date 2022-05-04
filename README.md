@@ -25,7 +25,7 @@ Now let use see the result of embedding the animated swimmers into a 3D model of
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/V-2.gif" width="1024" height="1024">
 </p>
 
-Next, we use [1]
+Next, we use [1] to see our swimmers are sometimes classified as kite (green), bird (blue) and also person (white).
 
 [1] He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). Mask R-CNN. arXiv. https://doi.org/10.48550/ARXIV.1703.06870
 
