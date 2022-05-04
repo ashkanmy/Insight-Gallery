@@ -30,7 +30,7 @@ Next, we use [3] to see our swimmers are sometimes falsely classified as kite (g
 ### Future Plan
 We aim to train Mask R-CNN so that it can correctly locate, classify and watch the swimmers enjoying our E-Lake! 
 
-In a real life scenario, a drone will run the desired Mask R-CNN and flies over a real lake to watch the swimmers if they need help or performing suspicious pattern of movement. This is critical to avoid swimmers to sink.
+In a real life scenario, a drone will run the desired Mask R-CNN and flies over a real lake to watch the swimmers if they need help or performing suspicious pattern of movements. This is critical to avoid swimmers to sink.
 
 ### References
 [1] www.mixamo.com
