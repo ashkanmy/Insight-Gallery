@@ -9,3 +9,5 @@ But wait, data collection might be a hard task here. Finding a stormy lake and p
 
 
 ![This is an image](https://freestocktextures.com/texture/foam-on-the-sea,858.html)
+
+Next we need few people to swim in our lake. We get them from animated figures provided in www.mixamo.com. It is freely available as one needs to just a create an account and use the available figures.
