@@ -1,3 +1,7 @@
+---
+---
+
+
 # Welcome to my homepage!
 Here, I mostly write my opensource activities and explain the projects that I do.
 
@@ -23,7 +27,8 @@ Now let use see the result of embedding the animated swimmers into a 3D model of
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/V-2.gif" width="1024" height="1024">
 </p>
 
-Next, we use [@KGPR2017]
+Next, we use 
 
-bibliography: bibliography.bib
+{% bibliography --cited --file My-Awesome-Tutorial/master_refs.bib  %}
+
 
