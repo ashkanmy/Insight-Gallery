@@ -28,6 +28,7 @@ Now let use see the result of embedding the animated swimmers into a 3D model of
 Next, we use [1] to see our swimmers are sometimes falsely classified as kite (green), bird (blue) and also person (white). This clearly reveals the Mask R-CNN pre-trained on MS COCO dataset [2] fails to watch our swimmers in our E-Lake.
 
 [1] He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). Mask R-CNN. arXiv. https://doi.org/10.48550/ARXIV.1703.06870
+
 [2] https://cocodataset.org/#home
 
 
