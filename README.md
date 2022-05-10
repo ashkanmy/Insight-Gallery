@@ -1,7 +1,14 @@
 
 
 # Welcome to my homepage!
-Here, I mostly write my opensource activities and explain the projects that I do.
+```diff
+- Here, I mostly write my opensource activities and explain the projects that I do.
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 
 ### E-Lake
 
