@@ -5,6 +5,7 @@ Here, I mostly write my opensource activities and explain the projects that I do
 
 
 
+
 ### E-Lake
 
 Let us imagine a stormy day where swimmers decided to swim in a lake. We need to watch them in case they need help! We do it by a drone that can always locate the swimmer postions and investigate if their behaviour is normal or if they need help.
