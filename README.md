@@ -32,7 +32,7 @@ Next, we use [3] to see our swimmers are sometimes falsely classified as kite (g
 
 ### Qt GUI
 
-However, to realise the whole pipeline as product we aim to train also YOLOs and see if they perform quciker as Mask R-CNN. Below shows a suitable GUI developed by Qt and C++.
+However, to realise the whole pipeline as a product we aim to train also YOLOs and see if they perform quciker as Mask R-CNN. Below shows a suitable GUI developed by Qt and C++.
 
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/GUI.png" width="512" height="512">
