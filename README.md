@@ -47,3 +47,6 @@ In a real life scenario, a drone will run the desired Mask R-CNN and flies over 
 
 ### Qt GUI
 
+<p align="center">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/GUI.png" width="1024" height="1024">
+</p>
