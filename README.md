@@ -25,7 +25,7 @@ Next we need few people to swim in our lake. We get them from animated figures p
 Now let use see the result of embedding the animated swimmers into a 3D model of E-Lake using [2]:
 
 <p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/V-2.gif" width="1024" height="1024">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/V-2.gif" width="512" height="512">
 </p>
 
 Next, we use [3] to see our swimmers are sometimes falsely classified as kite (green), bird (blue) and also person (white). This clearly reveals the Mask R-CNN pre-trained on MS COCO dataset [4] fails to watch our swimmers in our E-Lake.
