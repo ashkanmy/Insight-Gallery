@@ -40,7 +40,7 @@ However, to realise the whole pipeline as product we aim to train also YOLOs and
 
 
 ### Future Plan
-We aim to train Mask R-CNN so that it can correctly locate, classify and watch the swimmers enjoying our E-Lake! 
+We aim to train YOLOs as well as Mask R-CNN to have a comparison on tracking and also speed of the swimmer localisation and classification while they enjoy our E-Lake! 
 
 In a real life scenario, a drone will run the desired Mask R-CNN and flies over a real lake to watch the swimmers if they need help or performing suspicious pattern of movements. This is critical to avoid swimmers to sink.
 
