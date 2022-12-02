@@ -30,6 +30,15 @@ Now let use see the result of embedding the animated swimmers into a 3D model of
 
 Next, we use [3] to see our swimmers are sometimes falsely classified as kite (green), bird (blue) and also person (white). This clearly reveals the Mask R-CNN pre-trained on MS COCO dataset [4] fails to watch our swimmers in our E-Lake.
 
+### Qt GUI
+
+However, to realise the whole pipeline as product we aim to train also YOLOs and see if they perform quciker as Mask R-CNN. Below shows a suitable GUI developed by Qt and C++.
+
+<p align="center">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/GUI.png" width="512" height="512">
+</p>
+
+
 ### Future Plan
 We aim to train Mask R-CNN so that it can correctly locate, classify and watch the swimmers enjoying our E-Lake! 
 
@@ -45,8 +54,3 @@ In a real life scenario, a drone will run the desired Mask R-CNN and flies over 
 [4] https://cocodataset.org/#home
 
 
-### Qt GUI
-
-<p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/GUI.png" width="512" height="512">
-</p>
