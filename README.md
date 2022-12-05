@@ -56,6 +56,12 @@ In a real life scenario, a drone will run the desired Mask R-CNN and flies over 
 
 ##   StyleGAN2 swimmers 
 
+Another aspect of my work is about boosting existing data sets. As collecting images from the swimmer is technically a challenging task. One solution is to use StyleGAN2 [1] and boost the Swimmer data set [2] from the Kaggle. Below few created synthetic samples are shown to be realistically visualise the style of swimmers, namely back stroke, breast stroke, free and butterfly styles.
 <p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/fakes000500.png" width="128" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/fakes000500.png" width="1024" height="1024">
 </p>
+
+### References
+[1] https://github.com/NVlabs/stylegan2
+
+[2] https://www.kaggle.com/datasets/3122f8d0287f6094b28d66e36b216b3a278eae858b6c7cb10f821010825397a2
