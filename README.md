@@ -6,7 +6,7 @@ Here, I mostly write my opensource activities and explain the projects that I do
 
 
 
-### E-Lake
+###  - - - - - - - - - - E-Lake - - - - - - - - - -
 
 Let us imagine a stormy day where swimmers decide to swim in a lake. We need to watch them in case they need help! We do it by a drone that can always locate the swimmer postions and investigate if their behaviour is normal or if they need help.
 
@@ -54,3 +54,4 @@ In a real life scenario, a drone will run the desired Mask R-CNN and flies over 
 [4] https://cocodataset.org/#home
 
 
+###  - - - - - - - - - - StyleGAN2 swimmers - - - - - - - - - -
