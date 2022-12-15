@@ -63,10 +63,10 @@ Another aspect of my work is about boosting existing data sets. As collecting im
 
 Below, a set of limited original images used to produce above shown synthetic images.
 <p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/img00000000.png" width="256" height="256">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/img00000003.png" width="256" height="256">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/img00000006.png" width="256" height="256">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/img00000009.png" width="256" height="256">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/img00000000.png" width="128" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/img00000003.png" width="128" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/img00000006.png" width="128" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/img00000009.png" width="128" height="128">
 </p>
 
 
