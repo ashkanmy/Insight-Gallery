@@ -61,6 +61,12 @@ Another aspect of my work is about boosting existing data sets. As collecting im
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/fakes000500.png" width="1024" height="1024">
 </p>
 
+Below, a set of limited original images used to produce above shown synthetic images.
+<p align="center">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/fakes000500.png" width="1024" height="1024">
+</p>
+
+
 ### References
 [1] https://github.com/NVlabs/stylegan2
 
