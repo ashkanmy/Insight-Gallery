@@ -74,3 +74,8 @@ Below, a set of limited original images used to produce above shown synthetic im
 [1] https://github.com/NVlabs/stylegan2
 
 [2] https://www.kaggle.com/datasets/3122f8d0287f6094b28d66e36b216b3a278eae858b6c7cb10f821010825397a2
+
+
+##   Temperature prediction in 3D printing 
+
+Our aim in this project was to simulate the movement of the laser-nozzle during the printing process and within a laser bed powder fusion (LBPF) context. A controlled movement of the nozzle will help us to predict the temperature gradient during the printing avoiding the final product to be deformed because of uneven temperature distribution across the printing board.
