@@ -96,4 +96,4 @@ with $u_m$ and $\nabla u$ are the temperature and its gradient values concerning
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/_TSPTemp-1.png" width="256" height="256">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/_TSPTemp-2.png" width="256" height="256">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/_TSPTemp-3.png" width="256" height="256">
-</p>
+</p> 
