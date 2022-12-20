@@ -78,4 +78,10 @@ Below, a set of limited original images used to produce above shown synthetic im
 
 ##   Temperature prediction in 3D printing 
 
-Our aim in this project was to simulate the movement of the laser-nozzle during the printing process and within a laser bed powder fusion (LBPF) context. A controlled movement of the nozzle will help us to predict the temperature gradient during the printing avoiding the final product to be deformed because of uneven temperature distribution across the printing board.
+Our aim in this project was to simulate the movement of the laser-nozzle during the printing process and within a laser bed powder fusion (LBPF) context. A controlled movement of the nozzle will help us to predict the temperature gradient during the printing process hence avoiding the final product to be deformed because of uneven temperature distribution across the printing board. 
+
+To steer the nozzle moves, initially one can use a predefined trajectory, namely row-wise, zig-zag or a square-based approach as shown in below figure.
+<p align="center">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/trajects.png" width="128" height="128">
+</p>
+
