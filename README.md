@@ -19,7 +19,7 @@ But wait, data collection might be a hard task here. Finding a stormy lake and p
 Next we need few people to swim in our lake. We get them from animated figures provided in [1]. It is freely available as one needs to just a create an account and use the available figures.
 
 <p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/swim.gif" width="1024" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/swim.gif" width="128" height="128">
 </p>
 
 Now let use see the result of embedding the animated swimmers into a 3D model of E-Lake using [2]:
