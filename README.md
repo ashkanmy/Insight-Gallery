@@ -90,3 +90,5 @@ To steer the nozzle moves, initially one can use a predefined trajectory, namely
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/Cost.png" width="512" height="64">
 </p>
+
+with $\nabla u$
