@@ -82,6 +82,6 @@ Our aim in this project was to simulate the movement of the laser-nozzle during 
 
 To steer the nozzle moves, initially one can use a predefined trajectory, namely row-wise, zig-zag or a square-based approach as shown in below figure.
 <p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/trajects.png" width="128" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/Trajs.png" width="128" height="128">
 </p>
 
