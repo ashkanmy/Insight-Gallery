@@ -97,3 +97,6 @@ with $u_m$ and $\nabla u$ are the temperature and its gradient values concerning
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/_TSPTemp-3.png" width="296" height="256">
 </p> 
 Note that, all temperature in above heat-maps produced by partial differential equation toolbox of Matlab are in Kelvin measure.
+<p align="center">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/CompareCosts.png" width="296" height="256">
+</p>
