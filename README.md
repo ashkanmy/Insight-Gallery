@@ -90,13 +90,15 @@ However, a more optimal solution that we adopted was to apply the travel salesma
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/Cost.png" width="512" height="64">
 </p>
 
-with $u_m$ and $\nabla u$ are the temperature and its gradient values concerning the $m$ movement of the nozzle. Here, $u_g$ is the desired temperature on particular sub-area of the printing domain. In this project, we show that adopting TSP results to an optimum cost value. Below figure shows few instances where TSP deciding the $5$ adjacent movement of the nozzle.
+with $u_m$ and $\nabla u$ are the temperature and its gradient values concerning the $m$ movement of the nozzle. Here, $u_g$ is the desired temperature on particular sub-area of the printing domain. In this project, we show that adopting TSP results to an optimum cost value:
+<p align="center">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/CompareCosts.png" width="296" height="256">
+</p>
+Below figure shows few instances where TSP deciding the $5$ adjacent movement of the nozzle.
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/_TSPTemp-1.png" width="296" height="256">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/_TSPTemp-2.png" width="296" height="256">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/_TSPTemp-3.png" width="296" height="256">
 </p> 
 Note that, all temperature in above heat-maps produced by partial differential equation toolbox of Matlab are in Kelvin measure.
-<p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/CompareCosts.png" width="296" height="256">
-</p>
+
