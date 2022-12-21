@@ -86,7 +86,6 @@ To steer the nozzle moves, initially one can use a predefined trajectory, namely
 </p>
 
 However, a more optimal solution that we adopted was to apply the travel salesman problem (TSP) to minimise a cost function framed based on the temperature gradient:
-To steer the nozzle moves, initially one can use a predefined trajectory, namely row-wise, zig-zag or a square-based approach as shown in above figure.
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/Cost.png" width="512" height="64">
 </p>
