@@ -90,7 +90,7 @@ However, a more optimal solution that we adopted was to apply the travel salesma
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/Cost.png" width="512" height="64">
 </p>
 
-with $u_m$ and $\nabla u$ are the temperature and its gradient values concerning the $m$ movement of the nozzle. Here, $u_g$ is the desired temperature on particular sub-area of the printing domain. In this project, we show that adopting TSP results to an optimum cost value, compared to other pre-defined technologies:
+with $u_m$ and $\nabla u_m$ are the temperature and its gradient values concerning the $m$ movement of the nozzle. Here, $u_g$ is the desired temperature on particular sub-area of the printing domain. In this project, we show that adopting TSP results to an optimum cost value, compared to other pre-defined technologies:
 
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/CompareCosts.png" width="296" height="256">
