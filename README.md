@@ -1,6 +1,6 @@
 
 
-# Welcome to my homepage!
+# Welcome to my homepage. (Under weekly update . . . !)
 Here, I mostly write my opensource activities and explain the projects that I do.
 
 
