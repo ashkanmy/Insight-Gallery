@@ -106,7 +106,7 @@ Note that, all temperature in above heat-maps produced by partial differential e
 
 ### References
 
-[1] Strauch, A., Hardes, C., R ̈ottger, A., Uhlenwinkel, V., Baqerzadeh Chehreh, A.,
+[1] Strauch, A., Hardes, C., Röttger, A., Uhlenwinkel, V., Baqerzadeh Chehreh, A.,
 Theisen, W., Walther, F., Zoch, H, Laser additive manufacturing of hot work tool steel
 by means of a starting powder containing partly spherical pure elements and ferroalloys.
 Procedia CIRP. 94, pp. 46–51 (2020)
