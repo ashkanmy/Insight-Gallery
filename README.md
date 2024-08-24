@@ -1,7 +1,7 @@
 
 
-# Welcome to my homepage. (Under weekly update . . . !)
-Here, I mostly write my opensource activities and explain the projects that I do.
+# Welcome to my homepage. (Under update . . . !)
+Here, I mostly write my activities and explain the projects that I do.
 
 
 
