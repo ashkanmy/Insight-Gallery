@@ -1,6 +1,6 @@
 
 
-# Welcome to my homepage. (Under update . . . !)
+# Welcome to my Insight-Gallery. (Under update . . . !)
 Here, I mostly write my activities and explain the projects that I do.
 
 
