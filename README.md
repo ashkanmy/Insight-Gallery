@@ -128,9 +128,13 @@ Though we only use one band for now, but certainely there is a potential of fusi
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10013.png" width="128" height="128">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10014.png" width="128" height="128">
 </p> 
-with the first and the second rows to show the cloud and agricultural parcels and water as well, respectively. \\
+with the first and the second rows to show the cloud and agricultural parcels and water as well, respectively.
 
-We took a subset of PASTIS and visualized them in two dimensional space being clustered using t-SNE method. 
+We took a subset of PASTIS and visualized them in two dimensional space being clustered using t-SNE method. A clear distinction is observed in two dimension among the dimensionally reduced images 
+
+<p align="center">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10007.png" width="128" height="128">
+</p> 
 
 ### Refrences
 
