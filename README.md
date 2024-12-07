@@ -150,7 +150,7 @@ few of which are shown below taken from each cluster to belong either to the clo
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10013.png" width="128" height="128">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10014.png" width="128" height="128">
 </p> 
-### Refrences
+### References
 
 [1] Vivien Sainte Fare Garnot and Loic Landrieu. Panoptic segmentation of satellite image time series with convolutional
 temporal attention networks. ICCV, 2021
