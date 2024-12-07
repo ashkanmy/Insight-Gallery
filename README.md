@@ -128,7 +128,9 @@ The used dataset PASTIS [1] in this approach is composed of $2433$ one square ki
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20003.png" width="64" height="64">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10019.png" width="64" height="64">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20004.png" width="64" height="64">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10007.png" width="64" height="64">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20005.png" width="64" height="64">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10013.png" width="64" height="64">
 </p> 
 
 Though we only use one band for now, but certainely there is a potential of fusing other useful spectral bands to come out with a more effective method. 
