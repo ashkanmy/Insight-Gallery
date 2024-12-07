@@ -115,7 +115,7 @@ Procedia CIRP. 94, pp. 46–51 (2020)
 
 ## Cloud detection
 
-In contrast to AI based methods, we opt to devised a very quick, explainable and canonical approach to detect cloud existence based on the optical remote sensing images provided by multi-spectral images obtianed by Sentinel-2. The dataset [1] composed of $2433$ one square kilometer-patches in the French metropolitan territory for which sequences of satellite observations are assembled into a four-dimensional spatio-temporal tensor. 
+In contrast to AI based methods, we opt to devised a very quick, explainable and canonical approach to detect cloud existence based on the optical remote sensing images provided by multi-spectral images obtianed by Sentinel-2. The dataset [1] composed of $2433$ one square kilometer-patches (See Fig. 1) each of size $128\times 128$ in the French metropolitan territory for which sequences of satellite observations are assembled into a four-dimensional spatio-temporal tensor. 
 
 Though we only use one band for now, but certainely there is apotential of fusing other useful bands to come out with a more effective method. Let us have a look on few sample images
 <p align="center">
