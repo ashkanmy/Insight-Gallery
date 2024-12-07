@@ -1,8 +1,8 @@
 
 
 # Welcome to my Insight-Gallery. 
-## (Under update . . . !)
-Here, I mostly write my activities and explain the projects that I do.
+## Under continuous update!
+Here, I mostly write my activities and explain the thongs that I enjoy to do . . . 
 
 
 
@@ -111,3 +111,20 @@ Note that, all temperature in above heat-maps produced by partial differential e
 Theisen, W., Walther, F., Zoch, H, Laser additive manufacturing of hot work tool steel
 by means of a starting powder containing partly spherical pure elements and ferroalloys.
 Procedia CIRP. 94, pp. 46–51 (2020)
+
+
+## Cloud detection
+
+In contrast to AI based methods, we opt to devised a very quick, explainable and canonical approach to detect cloud existence based on the optical remote sensing images provided by multi-spectral images obtianed by Sentinel-2. The dataset [1] composed of $2433$ one square kilometer-patches in the French metropolitan territory for which sequences of satellite observations are assembled into a four-dimensional spatio-temporal tensor. 
+
+Though we only use one band for now, but certainely there is apotential of fusing other useful bands to come out with a more effective method. Let us have a look on few sample images:
+<p align="center">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/_TSPTemp-1.png" width="296" height="256">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/_TSPTemp-2.png" width="296" height="256">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/_TSPTemp-3.png" width="296" height="256">
+</p> 
+
+### Refrences
+
+[1] Vivien Sainte Fare Garnot and Loic Landrieu. Panoptic segmentation of satellite image time series with convolutional
+temporal attention networks. ICCV, 2021
