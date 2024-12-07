@@ -133,8 +133,7 @@ The used dataset PASTIS [1] in this approach is composed of $2433$ one square ki
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10013.png" width="64" height="64">
 </p> 
 
-Though we only use one band for now, but certainely there is a potential of fusing other useful spectral bands to come out with a more effective method. 
-. We took a subset of PASTIS and visualized them in two dimensional space being clustered using t-SNE method. A clear distinction is observed in two dimension among the dimensionally reduced images 
+Though we only use one band for now, but certainely there is a potential of fusing other useful spectral bands to come out with a more effective method. We took a subset of PASTIS and visualized them in two dimensional space being clustered using t-SNE method. A clear distinction is observed in two dimension among the dimensionally reduced images 
 
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/t-SNEResults.png" width="400" height="400">
