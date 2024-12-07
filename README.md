@@ -119,7 +119,6 @@ In contrast to AI based methods, we opt to devised a very quick, explainable and
 
 The used dataset PASTIS [1] in this approach is composed of $2433$ one square kilometer-patches (See Fig. below) each of size $128\times 128$ in the French metropolitan territory for which sequences of satellite observations are assembled into a four-dimensional spatio-temporal tensor. 
 
-Though we only use one band for now, but certainely there is a potential of fusing other useful spectral bands to come out with a more effective method. Let us have a look on few sample images
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20000.png" width="128" height="128">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20003.png" width="128" height="128">
@@ -130,12 +129,11 @@ Though we only use one band for now, but certainely there is a potential of fusi
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10013.png" width="128" height="128">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10014.png" width="128" height="128">
 </p> 
-with the first and the second rows to show the cloud and agricultural parcels and water as well, respectively.
-
 <p align="center">
 </p> 
 
-We took a subset of PASTIS and visualized them in two dimensional space being clustered using t-SNE method. A clear distinction is observed in two dimension among the dimensionally reduced images 
+Though we only use one band for now, but certainely there is a potential of fusing other useful spectral bands to come out with a more effective method. 
+. We took a subset of PASTIS and visualized them in two dimensional space being clustered using t-SNE method. A clear distinction is observed in two dimension among the dimensionally reduced images 
 
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/t-SNEResults.png" width="400" height="400">
