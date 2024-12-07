@@ -133,7 +133,7 @@ The used dataset PASTIS [1] in this approach is composed of $2433$ one square ki
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10013.png" width="64" height="64">
 </p> 
 
-Though we only use one band for now, but certainely there is a potential of fusing other useful spectral bands to come out with a more effective method. We took a subset of PASTIS and visualized them in two dimensional space being clustered using t-SNE method. A clear distinction is observed in two dimension among the dimensionally reduced images 
+Though we only use one band for now, but certainely there is a potential of fusing other useful spectral bands to come out with a more effective method. We took a subset of PASTIS and visualized them in two dimensional space being clustered using t-SNE [2]. A clear distinction is observed in two dimension among the dimensionally reduced images 
 
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/t-SNEResults.png" width="400" height="400">
@@ -154,3 +154,5 @@ few of which are shown below taken from each cluster to belong either to the clo
 
 [1] Vivien Sainte Fare Garnot and Loic Landrieu. Panoptic segmentation of satellite image time series with convolutional
 temporal attention networks. ICCV, 2021
+
+[2] T. Tony Cai and Rong Ma. Theoretical foundations of t-sne for visualizing high-dimensional clustered data, 2022.
