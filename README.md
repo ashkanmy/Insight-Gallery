@@ -120,15 +120,15 @@ In contrast to AI based methods, we opt to devised a very quick, explainable and
 The used dataset PASTIS [1] in this approach is composed of $2433$ one square kilometer-patches (See Fig. below) each of size $128\times 128$ taken from the French metropolitan territory for which sequences of satellite observations are assembled into a four-dimensional spatio-temporal tensor. 
 
 <p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20000.png" width="128" height="128">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20001.png" width="128" height="128">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10022.png" width="128" height="128">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10025.png" width="128" height="128">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20002.png" width="128" height="128">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20003.png" width="128" height="128">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10019.png" width="128" height="128">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20004.png" width="128" height="128">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20005.png" width="128" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20000.png" width="64" height="64">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20001.png" width="64" height="64">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10022.png" width="64" height="64">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10025.png" width="64" height="64">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20002.png" width="64" height="64">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20003.png" width="64" height="64">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10019.png" width="64" height="64">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20004.png" width="64" height="64">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20005.png" width="64" height="64">
 </p> 
 
 Though we only use one band for now, but certainely there is a potential of fusing other useful spectral bands to come out with a more effective method. 
