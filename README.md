@@ -117,7 +117,7 @@ Procedia CIRP. 94, pp. 46–51 (2020)
 
 In contrast to AI based methods, we opt to devised a very quick, explainable and canonical approach to detect cloud existence based on the optical remote sensing images provided by multi-spectral images obtianed by Sentinel-2. The used dataset PASTIS [1] in this approach is composed of $2433$ one square kilometer-patches (See Fig. below) each of size $128\times 128$ in the French metropolitan territory for which sequences of satellite observations are assembled into a four-dimensional spatio-temporal tensor. 
 
-Though we only use one band for now, but certainely there is apotential of fusing other useful bands to come out with a more effective method. Let us have a look on few sample images
+Though we only use one band for now, but certainely there is a potential of fusing other useful spectral bands to come out with a more effective method. Let us have a look on few sample images
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20000.png" width="128" height="128">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20003.png" width="128" height="128">
@@ -128,7 +128,7 @@ Though we only use one band for now, but certainely there is apotential of fusin
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10013.png" width="128" height="128">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10014.png" width="128" height="128">
 </p> 
-with the first and the second rows to show the cloud and agricultural parcels and water as well, respectively. 
+with the first and the second rows to show the cloud and agricultural parcels and water as well, respectively. \\
 
 We took a subset of PASTIS and visualized them in two dimensional space being clustered using t-SNE method. 
 
