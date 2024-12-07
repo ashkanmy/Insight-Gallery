@@ -138,7 +138,17 @@ We took a subset of PASTIS and visualized them in two dimensional space being cl
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/t-SNEResults.png" width="400" height="400">
 </p> 
-
+few of which are shown below taken from each cluster to belong either to the cloud or the agricultural parcels and water.
+<p align="center">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20000.png" width="128" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20003.png" width="128" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20010.png" width="128" height="128">
+</p> 
+<p align="center">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10007.png" width="128" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10013.png" width="128" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10014.png" width="128" height="128">
+</p> 
 ### Refrences
 
 [1] Vivien Sainte Fare Garnot and Loic Landrieu. Panoptic segmentation of satellite image time series with convolutional
