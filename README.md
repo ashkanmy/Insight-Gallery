@@ -142,9 +142,9 @@ Though we only use one band for now, but certainely there is a potential of fusi
 few of which are shown below taken from each cluster to belong either to the cloud shown as first row or the agricultural parcels and water visualized in second row.
 
 <p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20000.png" width="64" height="64">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20003.png" width="64" height="64">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20010.png" width="64" height="64">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20000.png" width="128" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20003.png" width="128" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/0__S2_20010.png" width="128" height="128">
 </p> 
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/1__S2_10007.png" width="128" height="128">
