@@ -130,6 +130,8 @@ Though we only use one band for now, but certainely there is a potential of fusi
 </p> 
 with the first and the second rows to show the cloud and agricultural parcels and water as well, respectively.
 
+<p align="center">
+</p> 
 
 We took a subset of PASTIS and visualized them in two dimensional space being clustered using t-SNE method. A clear distinction is observed in two dimension among the dimensionally reduced images 
 
