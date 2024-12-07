@@ -130,6 +130,7 @@ Though we only use one band for now, but certainely there is apotential of fusin
 </p> 
 with the first and the second rows to show the cloud and agricultural parcels and water as well, respectively.
 
+
 We took a subset of PASTIS and visualized them in two dimensional space being clustered using t-SNE method. 
 
 ### Refrences
