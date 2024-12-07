@@ -136,7 +136,7 @@ with the first and the second rows to show the cloud and agricultural parcels an
 We took a subset of PASTIS and visualized them in two dimensional space being clustered using t-SNE method. A clear distinction is observed in two dimension among the dimensionally reduced images 
 
 <p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/t-SNEResults.png" width="312" height="312">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/t-SNEResults.png" width="400" height="400">
 </p> 
 
 ### Refrences
