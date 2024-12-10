@@ -1,4 +1,3 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=ashkanmy&color=blue)
 
  
 # Welcome to my Insight-Gallery. 
@@ -154,6 +153,9 @@ few of which are shown below taken from each cluster to belong either to the clo
 
 ### References
 [1] Vivien Sainte Fare Garnot and Loic Landrieu. Panoptic segmentation of satellite image time series with convolutional
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ashkanmy&color=blue)
+
 temporal attention networks. ICCV, 2021.
 
 [2] T. Tony Cai and Rong Ma. Theoretical foundations of t-sne for visualizing high-dimensional clustered data, 2022.
