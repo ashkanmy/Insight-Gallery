@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=ashkan.my&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=ashkanmy&color=blue)
 
  
 # Welcome to my Insight-Gallery. 
