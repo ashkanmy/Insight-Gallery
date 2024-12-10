@@ -152,10 +152,9 @@ few of which are shown below taken from each cluster to belong either to the clo
 </p> 
 
 ### References
-[1] Vivien Sainte Fare Garnot and Loic Landrieu. Panoptic segmentation of satellite image time series with convolutional
+[1] Vivien Sainte Fare Garnot and Loic Landrieu. Panoptic segmentation of satellite image time series with convolutional temporal attention networks. ICCV, 2021.
+
+[2] T. Tony Cai and Rong Ma. Theoretical foundations of t-sne for visualizing high-dimensional clustered data, 2022.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ashkanmy&color=blue)
 
-temporal attention networks. ICCV, 2021.
-
-[2] T. Tony Cai and Rong Ma. Theoretical foundations of t-sne for visualizing high-dimensional clustered data, 2022.
