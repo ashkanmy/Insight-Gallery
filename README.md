@@ -172,5 +172,6 @@ The convex hemisphere $u\left(x,y\right)=-\sqrt{R^2-x^2-y^2}$ and an arbitrarily
                  lines are used to show how the points $\left(x_1,y_1,u\left(x_1,y_1\right)\right)$ and
                  $\left(x_1^{\prime},y_1^{\prime},u\left(x_1^{\prime},y_1^{\prime}\right)\right)$ are related among
                  the first and the third quarters of our right-handed coordinate system.
+                 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ashkanmy&color=blue)
 
