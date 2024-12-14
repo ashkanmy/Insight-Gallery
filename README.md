@@ -158,7 +158,7 @@ few of which are shown below taken from each cluster to belong either to the clo
 
 
 <p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/22.png.png" width="128" height="128">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/22.png.png" width="512" height="512">
 </p> 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ashkanmy&color=blue)
 
