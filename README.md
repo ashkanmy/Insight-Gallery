@@ -159,7 +159,8 @@ few of which are shown below taken from each cluster to belong either to the clo
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/22.png.png" width="512" height="512">
 </p> 
-The convex hemisphere $$u\left(x,y\right)=-\sqrt{R^2-x^2-y^2}$$ and an arbitrarily chosen point $\left(x_1,y_1,u\left(x_1,y_1\right)\right)$ on it. In the third quarter, the pair $'\left( x_1^{\prime},y_1^{\prime}\right)'$ is found such that conditions (\ref{eq:conditions1}) and (\ref{eq:conditions2}) are fulfilled. This facilitates computation of the \textit{azimuth} angle $$\phi_1$$ using (\ref{eq:tannegative}). An outward normal vector at point
+The convex hemisphere 
+$$u\left(x,y\right)=-\sqrt{R^2-x^2-y^2}$$ and an arbitrarily chosen point $\left(x_1,y_1,u\left(x_1,y_1\right)\right)$ on it. In the third quarter, the pair $'\left( x_1^{\prime},y_1^{\prime}\right)'$ is found such that conditions (\ref{eq:conditions1}) and (\ref{eq:conditions2}) are fulfilled. This facilitates computation of the \textit{azimuth} angle $$\phi_1$$ using (\ref{eq:tannegative}). An outward normal vector at point
                  $'\left(x_1^{\prime},y_1^{\prime},u\left(x_1^{\prime},y_1^{\prime}\right)\right)'$, located on the
                  concave part of the hemisphere with its \textit{azimuth} angle derived to be $\phi_1$, is shown as
                  bold light blue and once again drawn as bold black vector $'\left(-\nabla{u},1\right)^\top'$ to represent
