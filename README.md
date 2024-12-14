@@ -169,7 +169,7 @@ $$\left(x_1,y_1,u\left(x_1,y_1\right)\right)$$
 
 on it. In the third quarter, the pair 
 
-$'\left( x_1^{\prime},y_1^{\prime}\right)'$
+$$\left( x_1^{\prime},y_1^{\prime}\right)$$
 
 is found such that conditions (\ref{eq:conditions1}) and (\ref{eq:conditions2}) are fulfilled. This facilitates computation of the \textit{azimuth} angle $$\phi_1$$ using (\ref{eq:tannegative}). An outward normal vector at point
                  $'\left(x_1^{\prime},y_1^{\prime},u\left(x_1^{\prime},y_1^{\prime}\right)\right)'$, located on the
