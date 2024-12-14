@@ -160,7 +160,7 @@ few of which are shown below taken from each cluster to belong either to the clo
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/22.png.png" width="512" height="512">
 </p> 
-The convex hemisphere $' math u\left(x,y\right)=-\sqrt{R^2-x^2-y^2} '$ and an arbitrarily chosen
+The convex hemisphere $' u\left(x,y\right)=-\sqrt{R^2-x^2-y^2} '$ and an arbitrarily chosen
                  point $\left(x_1,y_1,u\left(x_1,y_1\right)\right)$ on it. In the third quarter, the pair
                  $'\left( x_1^{\prime},y_1^{\prime}\right)'$ is found such that conditions (\ref{eq:conditions1})
                  and (\ref{eq:conditions2}) are fulfilled. This facilitates computation of the \textit{azimuth} angle
