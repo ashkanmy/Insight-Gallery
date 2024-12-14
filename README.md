@@ -4,7 +4,7 @@
 ## Under continuous update!
 Here, I mostly write my activities and explain the thongs that I enjoy to do . . . 
 
-
+$$x^2$$
 
 
 ##   E-Lake 
