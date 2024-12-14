@@ -156,6 +156,8 @@ few of which are shown below taken from each cluster to belong either to the clo
 [2] T. Tony Cai and Rong Ma. Theoretical foundations of t-sne for visualizing high-dimensional clustered data, 2022.
 
 
+##   The Convex / Concave ambiguity in Shape-from-Shading 
+
 <p align="center">
   <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/22.png.png" width="512" height="512">
 </p> 
