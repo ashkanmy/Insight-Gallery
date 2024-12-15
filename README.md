@@ -1,5 +1,4 @@
 
-
 # Welcome to my Insight-Gallery. 
 ## Under continuous update!
 Here, I mostly write my activities and explain the thongs that I enjoy to do . . . 
@@ -160,28 +159,11 @@ few of which are shown below taken from each cluster to belong either to the clo
 
 
 <p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/22.png.png" width="480" height="480">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/22.png.png" width="400" height="400">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/22.png.png" width="400" height="400">
 </p> 
-The convex hemisphere 
 
-u\left(x,y\right)=-\sqrt{R^2-x^2-y^2}
+The convex hemisphere $u\left(x,y\right)=-\sqrt{R^2-x^2-y^2}$ and an arbitrarily chosen point $\left(x_1,y_1,u\left(x_1,y_1\right)\right)$ on it. In the third quarter, the pair $\left( x_1^{\prime},y_1^{\prime}\right)$ is found such that conditions (\ref{eq:conditions1}) and (\ref{eq:conditions2}) are fulfilled. 
 
-and an arbitrarily chosen point 
-
-$$\left(x_1,y_1,u\left(x_1,y_1\right)\right)$$ 
-
-on it. In the third quarter, the pair 
-
-$$\left( x_1^{\prime},y_1^{\prime}\right)$$
-
-is found such that conditions (\ref{eq:conditions1}) and (\ref{eq:conditions2}) are fulfilled. This facilitates computation of the \textit{azimuth} angle $$\phi_1$$ using (\ref{eq:tannegative}). An outward normal vector at point
-                 $'\left(x_1^{\prime},y_1^{\prime},u\left(x_1^{\prime},y_1^{\prime}\right)\right)'$, located on the
-                 concave part of the hemisphere with its \textit{azimuth} angle derived to be $\phi_1$, is shown as
-                 bold light blue and once again drawn as bold black vector $'\left(-\nabla{u},1\right)^\top'$ to represent
-                 the geometry of the surface at point $\left(x_1,y_1,u\left(x_1,y_1\right)\right)$. The dotted red and blue
-                 lines are used to show how the points $\left(x_1,y_1,u\left(x_1,y_1\right)\right)$ and
-                 $'\left(x_1^{\prime},y_1^{\prime},u\left(x_1^{\prime},y_1^{\prime}\right)\right)'$ are related among
-                 the first and the third quarters of our right-handed coordinate system.
-                 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ashkanmy&color=blue)
 
