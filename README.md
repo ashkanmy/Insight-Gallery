@@ -1,7 +1,7 @@
 
 # Welcome to my Insight-Gallery. 
 ## Under continuous update!
-Here, I mostly write my activities and explain the thongs that I enjoy to do . . . 
+Here, I mostly write my activities and explain what I enjoy to think and do  . . . 
 
 
 
@@ -157,13 +157,18 @@ few of which are shown below taken from each cluster to belong either to the clo
 
 ##   The Convex / Concave ambiguity in Shape-from-Shading 
 
-
 <p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/22.png.png" width="400" height="400">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/22.png.png" width="400" height="400">
 </p> 
 
-The convex hemisphere $u\left(x,y\right)=-\sqrt{R^2-x^2-y^2}$ and an arbitrarily chosen point $\left(x_1,y_1,u\left(x_1,y_1\right)\right)$ on it. In the third quarter, the pair $\left( x_1^{\prime},y_1^{\prime}\right)$ is found such that conditions (\ref{eq:conditions1}) and (\ref{eq:conditions2}) are fulfilled. 
+<p align="center">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/22.png.png" width="400" height="200">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/23.png" width="400" height="200">
+</p> 
+
+<p align="center">
+</p> 
+
+The (left) convex hemisphere $u\left(x,y\right)=-\sqrt{R^2-x^2-y^2}$ and the (right) concave hemisphere $u\left(x,y\right)=+\sqrt{R^2-x^2-y^2}$ with an arbitrarily chosen point $P=\left(x_1,y_1,u\left(x_1,y_1\right)\right)$ within the third quarter located on thier surfaces. An orthographic camera looks from infinity along the $z$ direction and observes the same angle $\theta$ among the light reflected from the surfaces and their corresponding incident normals both at $P$. In case the surface is Lambertian, the reflected irradiated light from the both convex and concave surfaces at $P$ will be the same and ambigous to reveal the geometry of the surface at that point.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ashkanmy&color=blue)
 
