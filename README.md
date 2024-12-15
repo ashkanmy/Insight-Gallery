@@ -1,5 +1,9 @@
 
- 
+<script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+
 # Welcome to my Insight-Gallery. 
 ## Under continuous update!
 Here, I mostly write my activities and explain the thongs that I enjoy to do . . . 
