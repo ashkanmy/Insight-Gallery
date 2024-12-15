@@ -1,8 +1,4 @@
 
-<script type="text/javascript" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
 
 # Welcome to my Insight-Gallery. 
 ## Under continuous update!
@@ -168,7 +164,7 @@ few of which are shown below taken from each cluster to belong either to the clo
 </p> 
 The convex hemisphere 
 
-$$u\left(x,y\right)=-\sqrt{R^2-x^2-y^2}$$ 
+u\left(x,y\right)=-\sqrt{R^2-x^2-y^2}
 
 and an arbitrarily chosen point 
 
