@@ -1,7 +1,7 @@
 
 # Welcome to my Insight-Gallery. 
 ## Under continuous update!
-Here, I mostly write my activities and explain what I enjoy to think and do  . . . 
+Here, I mostly write my activities and explain what I enjoy to think and to do  . . . 
 
 
 
