@@ -173,5 +173,16 @@ The (left) convex hemisphere $u\left(x,y\right)=-\sqrt{R^2-x^2-y^2}$ and the (ri
 ### References
 [1] Michael Breuß, Ashkan Mansouri Yarahmadi, and Douglas W. Cunningham. The Convex-Concave Ambiguity in Perspective Shape from Shading, proceedings of the OAGM workshop on medical image analysis. 2018.
 
+##   E-Mail summarization using LLM / C#
+<p align="center">
+</p> 
+
+<p align="center">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/AutoEmail.png" width="800" height="400">
+</p> 
+
+<p align="center">
+</p> 
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=ashkanmy&color=blue)
 
