@@ -178,7 +178,7 @@ The (left) convex hemisphere $u\left(x,y\right)=-\sqrt{R^2-x^2-y^2}$ and the (ri
 </p> 
 
 <p align="center">
-  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/AutoEmail.png" width="800" height="400">
+  <img src="https://github.com/ashkanmy/ashkanmy.github.io/blob/main/Figs/AutoEmail-2.png" width="800" height="400">
 </p> 
 
 <p align="center">
